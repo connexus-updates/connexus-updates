@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "downloads": {
+    "windows": "https://github.com/connexus-updates/connexus-updates/releases/download/v1.2.0/ConnexusClientWin.zip",
+    "macos": "https://github.com/connexus-updates/connexus-updates/releases/download/v1.2.0/ConnexusClientMac.zip"
+  }
+}
