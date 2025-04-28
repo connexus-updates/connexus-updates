@@ -1,4 +1,4 @@
-## Hi there 👋
+## Connexus Client Updates
 
 <!--
 **connexus-updates/connexus-updates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
